@@ -1,9 +1,9 @@
-# Short History of Bobatanium
+# A Short History of Bobatanium
 
 History behind each name
 
-| Name | History|
-| ---- | -------|
+| Name | History |
+| :---- | :-------|
 | Boba | He is Bobatanium |
 | Whiska | Likes his whisky |
 | Spilla | Always spills his drinks |
