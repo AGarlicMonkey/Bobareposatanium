@@ -15,7 +15,7 @@ History behind each name
 | **Rolla** | Because there is a German ryhme about Robert rolling |
 | **Crita** | Is at Critical Mass |
 | **Fluffa** | Because we were fluffing our beards up |
-| **Tea** | Drinks a lot of tea |
+| **Teaa** | Drinks a lot of tea |
 | **Flappa** | Likes a flap jack and turns into a bird |
 | **Doga** | Is a good boy |
 | **Froga** | Has a frog neck and ribbits |
