@@ -24,4 +24,5 @@ History behind each name
 | **Porta** | Had Port spilled all over him |
 | **Skippa** | Skipped someone's turn in a stand up |
 | **Sicka** | The first time he went home sick |
+| **Ripa** | The day he was kill |
 | **Tanium** | He is Bobatanium |
