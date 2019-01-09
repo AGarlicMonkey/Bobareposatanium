@@ -23,4 +23,5 @@ History behind each name
 | **Draina** | Drains his coffee |
 | **Porta** | Had Port spilled all over him |
 | **Skippa** | Skipped someone's turn in a stand up |
+| **Sicka** | The first time he went home sick |
 | **Tanium** | He is Bobatanium |
